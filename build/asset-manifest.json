@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Pixaby-API/static/css/main.bbc633d8.css",
+    "main.js": "/github.io/Pixaby-API/static/js/main.91cc9470.js",
+    "index.html": "/github.io/Pixaby-API/index.html",
+    "main.bbc633d8.css.map": "/github.io/Pixaby-API/static/css/main.bbc633d8.css.map",
+    "main.91cc9470.js.map": "/github.io/Pixaby-API/static/js/main.91cc9470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc633d8.css",
+    "static/js/main.91cc9470.js"
+  ]
+}
